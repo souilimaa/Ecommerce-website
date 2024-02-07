@@ -24,7 +24,7 @@ session_start();
 
 
   <!-- Replace "test" with your own sandbox Business account app client ID -->
-  <script src="https://www.paypal.com/sdk/js?client-id=Aari80YGRAX7Q3qd-zXhxFaTzLzZz5xdyJKArAzCT69MuTA4-X06zM6Pzw2PKO2e1KqYqRWXQAErrNqV&currency=USD"></script>
+  <script src="https://www.paypal.com/sdk/js?client-id=yourClientId&currency=USD"></script>
   <!-- Set up a container element for the button -->
   <div id="paypal-button-container"></div>
   <script>
