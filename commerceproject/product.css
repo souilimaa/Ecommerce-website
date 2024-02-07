@@ -1,0 +1,156 @@
+nav{
+    background-color:black;}
+    .navbar .navbar-nav .nav-link{
+        color: white;
+    }
+    .navbar .navbar-nav .nav-link.active,
+ .navbar .navbar-nav .nav-link:focus,
+ .navbar .navbar-nav .nav-link:hover{
+    color: #adc8e3;
+ }
+
+.btn-primary, .btn-primary:active {
+    background-color:#6c8aa7 !important; 
+}
+
+    .btn-primary:hover{  
+    background-color:#5d7e99 !important;
+} 
+
+.navbar-collapse form  {
+    flex-grow: 1 !important;
+}
+
+.input-group {
+    flex-wrap: nowrap !important;
+}
+ .navbar-expand-lg .navbar-nav .nav-link{
+    padding-right:2rem !important; 
+}
+#k:hover{
+    background-color: #0b4776 !important;
+}
+.navbar-toggler {
+border-color: white !important;  }
+.navbar-toggler:focus {
+   
+    color: lightskyblue !important;
+}
+#categorie:hover{
+    box-shadow: 0 0 0 0.25rem lightskyblue  !important;
+}
+.departement{
+    background-color: white;
+    position:absolute;
+border-bottom: 1px solid lightskyblue; 
+border-right: 1px solid lightskyblue; 
+border-left: 1px solid lightskyblue; 
+margin-top: -4px;
+border-top-right-radius:6px;
+border-top-left-radius:0px ;
+border-bottom-right-radius: 6px;
+border-bottom-left-radius: 6px;
+width: 270px;   
+display: none;  
+z-index: 1000; 
+}   
+
+.departement div{
+padding: 1px;}
+
+  .n{
+    color: white;
+    margin-top: -13px;
+  }
+ .stockage div svg{
+    vertical-align: initial !important;
+}
+.dropOrdinateur{
+margin-left: 119px;
+}
+.dropEcran{
+    margin-left: 15px;
+}
+.dropStockage{
+    margin-left: 138px;       
+}
+.dropAccessoire{
+    margin-left: 119px;
+} 
+.departement li{
+    list-style: none; 
+}  
+.departement div{
+    padding: 3px;
+}
+ .departement div  .s:hover,.departement div .s:focus,.departement div .s:visited,
+ .departement div .o:hover, .departement div .o:focus, .departement div .o:visited,
+ .departement div .e:hover,.departement div .e:focus,.departement div .e:visited{ 
+    color: lightskyblue;
+} 
+
+.al:hover{
+    color: lightskyblue;
+}
+.sousOrdinateur div{
+    padding: 7px;
+}
+.sousOrdinateur,.sousEcrans,.sousStockage,.sousAccessoire{
+    display: none;
+}
+.sousAccessoire div,sousOrdinateur div,sousStockage div,sousEcrans div{
+    padding: 7px;
+}
+.sousAccessoire div:hover{
+        background-color: #adc8e3 ; 
+}
+.sousOrdinateur div:hover{
+        background-color: #adc8e3 ; 
+}
+.sousStockage div:hover{
+        background-color: #adc8e3 ; 
+}
+.sousEcrans div:hover{
+        background-color: #adc8e3 ; 
+}
+.departement{
+font-family: 'Work Sans', sans-serif;
+}
+.bottom{
+    margin-bottom: 4px;
+}
+.cls{
+    color: lightskyblue;
+}
+
+.badge{
+    color: red !important;
+}
+.tr{  
+    transform: translate(-97%,-50%)!important;
+}
+body{
+	background-color: #bad6df;
+}
+	    
+	
+ .des{
+ 	font-family: 'Work Sans', sans-serif;
+ 	color: black;
+
+ }  
+ .card{
+ 	border: 0px solid white;
+ 	border-radius: 0px;
+ }
+pre{
+	white-space: pre-wrap;
+margin-bottom: -2rem;  
+}  
+.cli{
+    margin-left: 4rem !important;
+}
+.qn{
+       margin-left: 4rem !important;
+ 
+}
